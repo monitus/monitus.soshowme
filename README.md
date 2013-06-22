@@ -27,3 +27,8 @@ jQuery(function($) {
   // demo.soshowme("tracking", false);
 });
 ```
+
+Styling
+=======
+
+See the included css file for classes you can override in your own css and get complete control over thw widget's look.
