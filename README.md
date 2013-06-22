@@ -1,4 +1,4 @@
-soshowme
+![soshowme icon](http://new.malus.ca/wp-content/uploads/2012/11/soshowme.png)
 ========
 
 soshowme is a jQuery-UI plugin that allows users to pick any element on a page, and get the jQuery selector to it. 
