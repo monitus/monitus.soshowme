@@ -1,0 +1,6 @@
+.ui-soshowme-zone, .ui-soshowme-label { position: absolute; display: none; top: 0px; left: 0px; z-index: 1000000; }
+.ui-soshowme-zone { width: 0px; height: 0px; background-color: red; opacity: 0.35; }
+.ui-soshowme-label { z-index: 1000005; background-color: yellow; font-size: 10px; white-space: nowrap; padding: 1px; border: 1px solid #FF9900; }
+
+.ui-soshowme { z-index: 1000010; opacity: 0.75; }
+.ui-soshowme-path { z-index: 1000015; }
